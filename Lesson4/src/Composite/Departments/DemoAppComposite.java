@@ -11,6 +11,15 @@ public class DemoAppComposite {
         headDepartment.addDepartment(salesDepartment);
         headDepartment.addDepartment(financialDepartment);
 
+        System.out.println("Print names of departments:");
         headDepartment.printDepartmentName();
     }
 }
+
+/* РЕЗУЛЬТАТ (консоль):
+
+Print names of departments:
+SalesDepartment
+FinancialDepartment
+
+ */

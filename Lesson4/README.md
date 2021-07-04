@@ -61,3 +61,15 @@
 Компоновщиком является класс Employee, клиентом – DemoAppCompositeEmployee.
 Клиент создает элементы структуры: "контейнеры" – CEO и начальники отделов, листья – сотрудники отделов. 
 </details>
+
+###***Декоратор (Decorator)***
+<details>
+<summary>Рисуем геометрические фигуры</summary>
+
+* Component - интерфейс Shape;
+* Concrete components – Cirle, Star, Triangle – содержат базовое поведение;
+* Base Decorator (ShapeDecorator) – базовый декоратор, содержит ссылку на вложенный объект-компонент.
+* Concrete Decorators (ColorDecorator, BorderWidthDecorator) – варианты декораторов.
+* Client (DemoAppDecorator) – рисует (условно) различные варианты фигур.
+
+</details>
