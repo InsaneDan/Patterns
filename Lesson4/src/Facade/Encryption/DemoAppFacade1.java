@@ -1,5 +1,6 @@
 package Facade.Encryption;
 
+// https://examples.javacodegeeks.com/core-java/java-facade-design-pattern-example/
 public class DemoAppFacade1 {
     public static void main(String[] args) {
         String someText = "Encrypt this text";

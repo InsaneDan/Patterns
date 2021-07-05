@@ -84,7 +84,7 @@ https://www.baeldung.com/java-facade-pattern
 <details>
 <summary>Система шифрования</summary>
 
-Фасад предоставляет единый интерфейс и упрощает работу с разными компонентами системы.
+https://examples.javacodegeeks.com/core-java/java-facade-design-pattern-example/
 </details>
 
 
