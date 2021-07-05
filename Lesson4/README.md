@@ -73,3 +73,35 @@
 * Client (DemoAppDecorator) – рисует (условно) различные варианты фигур.
 
 </details>
+
+
+###***Фасад (Facade)***
+<details>
+<summary>Понятный, но "нерабочий" пример на https://www.baeldung.com</summary>
+
+https://www.baeldung.com/java-facade-pattern  
+</details>
+<details>
+<summary>Система шифрования</summary>
+
+Фасад предоставляет единый интерфейс и упрощает работу с разными компонентами системы.
+</details>
+
+
+###***Легковес (Flyweight)***
+<details>
+<summary>Примеры использования Flyweight + Factory</summary>
+
+Подсмотрено на:
+
+https://www.learn-it-with-examples.com/development/java/java-design-patterns/java-flyweight.html
+https://refactoring.guru/ru/design-patterns/flyweight/java/example
+</details>
+
+
+###***Заместитель (Прокси, Proxy)***
+<details>
+<summary>Пример использования Proxy + Decorator (копипаст)</summary>
+
+Источник: https://refactoring.guru/ru/design-patterns/proxy/java/example
+</details>
