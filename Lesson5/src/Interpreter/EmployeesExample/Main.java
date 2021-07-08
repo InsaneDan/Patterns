@@ -53,4 +53,18 @@ public class Main {
 
 /* РЕЗУЛЬТАТ:
 
+contextString= Designation:manager, Department:engineering, Manages:martin, Salary:110000
+
+Employee [1005, Kim, Manager, ENGINEERING, 110000, TeamSize=3, Team={Ajay, Martin, Vijay}]
+For 'Kim', AndExpression [left=AndExpression [left=AndExpression [left=DesignationExpression [designation=manager], right=DepartmentExpression [department=engineering]], right=ManagerOfExpression [name=martin]], right=SalaryExpression [salary=110000]]: true.
+=======================================================================
+
+contextString= Designation:developer, Department:engineering, salary:<85000
+
+Employee [1001, Ajay, Developer, ENGINEERING, 75000, TeamSize=1, Team={NA}]
+For 'Ajay', AndExpression [left=AndExpression [left=DesignationExpression [designation=developer], right=DepartmentExpression [department=engineering]], right=SalaryExpression [salary=<85000]]: true.
+
+Employee [1006, Andersen, Developer, ENGINEERING, 95000, TeamSize=1, Team={NA}]
+For 'Andersen', AndExpression [left=AndExpression [left=DesignationExpression [designation=developer], right=DepartmentExpression [department=engineering]], right=SalaryExpression [salary=<85000]]: false.
+
 */

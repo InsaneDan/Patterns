@@ -39,5 +39,33 @@
 Копипаст с https://dzone.com/articles/using-interpreter-design-pattern-in-java
 </details>
 
+###***Итератор (Iterator)***
+<details>
+<summary>Итератор ArrayList'а</summary>
+самый простой вариант, проверяется только следующий элемент (hasNext)
+</details>
+
+###***Медиатор (Mediator)***
+<details>
+<summary>GUI для хранилища заметок</summary>
+Посредник/Медиатор размещает элементы на форме, получает от них извещения о событиях и выполняет 
+соответствующие действия.
+
+Копипаст с https://refactoring.guru/ru/design-patterns/mediator/java/example
+</details>
+
+###***Мементо (Memento)***
+<details>
+<summary>Сохранение состояния "условного" документа</summary>
+
+Сохранение состояния небольшого объекта (3 поля), изменение значений полей и откат в исходное состояние.
+
+Воспроизведено с https://examples.javacodegeeks.com/core-java/java-memento-design-pattern-example/
+</details>
+
+
+
+
+
 
 
