@@ -63,9 +63,43 @@
 Воспроизведено с https://examples.javacodegeeks.com/core-java/java-memento-design-pattern-example/
 </details>
 
+###***Наблюдатель (Издатель-Подписчик, Слушатель, Observer)***
+<details>
+<summary>Подписка и оповещение о новых сообщениях</summary>
+
+* Subject – содержит методы для присоединения и отключения (подписать/отписать) наблюдателей;
+* Observer – абстрактный класс + конкретные наблюдатели, "слушающие" новые сообщения; 
+* Client (DemoAppObserver) – подписывает конкретных наблюдателей на рассылку сообщений, 
+создает сообщения для Subject.
+
+Воспроизведено с https://www.tutorialspoint.com/design_pattern/observer_pattern.htm
+</details>
+
+###***Состояние (State)***
+<details>
+<summary></summary>
+
+</details>
 
 
+###***Стратегия (Strategy)***
+<details>
+<summary></summary>
+
+</details>
 
 
+###***Шаблонный метод (Template Method)***
+<details>
+<summary></summary>
+
+</details>
+
+
+###***Посетитель (Visitor)***
+<details>
+<summary></summary>
+
+</details>
 
 
