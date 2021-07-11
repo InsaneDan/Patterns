@@ -77,29 +77,33 @@
 
 ###***Состояние (State)***
 <details>
-<summary></summary>
+<summary>Изменение поведения "робота" в зависимости от его состояния</summary>
 
+https://www.javacodegeeks.com/2015/09/state-design-pattern.html
 </details>
 
 
 ###***Стратегия (Strategy)***
 <details>
-<summary></summary>
+<summary>Стратегия форматирования текста в текстовом редакторе</summary>
 
+https://www.javacodegeeks.com/2015/09/strategy-design-pattern.html
 </details>
 
 
 ###***Шаблонный метод (Template Method)***
 <details>
-<summary></summary>
+<summary>Использование шаблонного паттерна для подключения и взаимодействия с различными базами данных</summary>
 
+https://www.javacodegeeks.com/2015/09/template-design-pattern.html
 </details>
 
 
 ###***Посетитель (Visitor)***
 <details>
-<summary></summary>
+<summary>Экспорт состояний геометрических фигур в XML</summary>
 
+https://refactoring.guru/ru/design-patterns/visitor/java/example
 </details>
 
 

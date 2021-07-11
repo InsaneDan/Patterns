@@ -239,6 +239,51 @@ https://refactoring.guru/ru/design-patterns/flyweight/java/example
 </details>
   
 -----------------------------------
+
+8. ###***Состояние (State)***
+<details>
+<summary>Изменение поведения "робота" в зависимости от его состояния</summary>
+
+https://www.javacodegeeks.com/2015/09/state-design-pattern.html
+</details>
+
+
+###***Стратегия (Strategy)***
+<details>
+<summary>Стратегия форматирования текста в текстовом редакторе</summary>
+
+https://www.javacodegeeks.com/2015/09/strategy-design-pattern.html
+</details>
+
+-----------------------------------
+
+9. ###***Шаблонный метод (Template Method)***
+<details>
+<summary>Использование шаблонного паттерна для подключения и взаимодействия с различными базами данных</summary>
+
+https://www.javacodegeeks.com/2015/09/template-design-pattern.html
+</details>
+
+-----------------------------------
+
+10. ###***Посетитель (Visitor)***
+<details>
+<summary>Экспорт состояний геометрических фигур в XML</summary>
+
+https://refactoring.guru/ru/design-patterns/visitor/java/example
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
 </details>
 
 <details>
