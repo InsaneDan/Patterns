@@ -273,16 +273,7 @@ https://www.javacodegeeks.com/2015/09/template-design-pattern.html
 https://refactoring.guru/ru/design-patterns/visitor/java/example
 </details>
 
-
-
-
-
-
-
-
-
-
-
+-----------------------------------
 
 </details>
 
