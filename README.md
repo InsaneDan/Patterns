@@ -240,7 +240,7 @@ https://refactoring.guru/ru/design-patterns/flyweight/java/example
   
 -----------------------------------
 
-8. ###***Состояние (State)***
+8. ***Состояние (State)***
 <details>
 <summary>Изменение поведения "робота" в зависимости от его состояния</summary>
 
@@ -248,7 +248,7 @@ https://www.javacodegeeks.com/2015/09/state-design-pattern.html
 </details>
 
 
-###***Стратегия (Strategy)***
+9. ***Стратегия (Strategy)***
 <details>
 <summary>Стратегия форматирования текста в текстовом редакторе</summary>
 
@@ -257,7 +257,7 @@ https://www.javacodegeeks.com/2015/09/strategy-design-pattern.html
 
 -----------------------------------
 
-9. ###***Шаблонный метод (Template Method)***
+10. ***Шаблонный метод (Template Method)***
 <details>
 <summary>Использование шаблонного паттерна для подключения и взаимодействия с различными базами данных</summary>
 
@@ -266,7 +266,7 @@ https://www.javacodegeeks.com/2015/09/template-design-pattern.html
 
 -----------------------------------
 
-10. ###***Посетитель (Visitor)***
+11. ***Посетитель (Visitor)***
 <details>
 <summary>Экспорт состояний геометрических фигур в XML</summary>
 
@@ -280,11 +280,15 @@ https://refactoring.guru/ru/design-patterns/visitor/java/example
 <details>
 <summary>Урок 6. Архитектурные системные паттерны. Часть 1</summary>
 
+1. Для всех объектов, которые непосредственно хранятся в БД, реализовать шаблон Data Mapper.
+2. Проконтролировать получение объектов из БД используя шаблон Identity Map.
 </details>
 
 <details>
 <summary>Урок 7. Архитектурные системные паттерны. Часть 2</summary>
 
+1. Реализовать паттерн MVC, и/или.
+2. Реализовать уровень представления с использованием одного из распространенных MVC фреймворков.
 </details>
 
 <details>
